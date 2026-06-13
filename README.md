@@ -3,6 +3,8 @@
 Suite complète d'outils PDF — 100 % local, aucun fichier envoyé sur un serveur.  
 Interface web construite avec **Streamlit**, authentification via **Google OAuth 2.0**.
 
+streamlit link: [pdf studio](https://pdf-studio.streamlit.app)
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.27%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
