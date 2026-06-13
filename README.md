@@ -138,7 +138,7 @@ REDIRECT_URI         = "https://TON-APP.streamlit.app"
 | `requests` | Appels HTTP OAuth |
 
 ---
-
+![alt text](image.png)
 ## Sécurité
 
 - Aucun fichier n'est transmis à un serveur externe — tout le traitement se fait en mémoire locale.
